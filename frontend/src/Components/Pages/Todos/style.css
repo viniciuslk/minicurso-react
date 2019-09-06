@@ -1,0 +1,30 @@
+.mnc-todos--buttons {
+  margin-top: 12px;
+  margin-bottom: 32px;
+}
+
+.mnc-todos--button {
+  width: 100%;
+}
+
+.mnc-todos--loading {
+  width: 3rem;
+  height: 3rem;
+  margin: 0 auto;
+}
+
+.badge {
+  margin-left: 8px;
+}
+
+input[type="checkbox"] {
+  margin-left: 0;
+  position: relative;
+  margin-right: 8px;
+}
+
+@media (min-width: 768px) {
+  .mnc-todos--buttons {
+    margin-top: 0;
+  }
+}

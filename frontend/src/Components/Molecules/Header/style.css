@@ -1,0 +1,13 @@
+.mnc-header a {
+  color: #aaa;
+  padding: 0 8px;
+}
+
+.mnc-header a:hover {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.mnc-header .active {
+  color: white;
+}

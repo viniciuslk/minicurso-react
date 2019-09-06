@@ -1,0 +1,5 @@
+.mnc-app-content {
+  padding-top: 24px;
+  background: #f4f4f4;
+  min-height: calc(100vh - 56px);
+}
